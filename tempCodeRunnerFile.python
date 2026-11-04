@@ -1,0 +1,10 @@
+
+age = int(input("Enter your age\n"))
+if age >=10 and age <=20 :
+    print("you are old/too young enough to get enrolled")
+else:
+    print("you are too young/too old to get enrolled")
+
+
+
+   
